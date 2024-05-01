@@ -226,187 +226,187 @@
 <hr>
 
 <ul>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(1).pdf" style="text-decoration:none;">Ansible for DevOps </a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(3).pdf" style="text-decoration:none;">API-Driven DevOps</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(4).pdf" style="text-decoration:none;"><span style ="color:red">Building</span> Your Next Big Thing with Google Cloud Platform</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(1).pdf" style="text-decoration:none;">Ansible for DevOps </a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(3).pdf" style="text-decoration:none;">API-Driven DevOps</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(4).pdf" style="text-decoration:none;"><span style ="color:red">Building</span> Your Next Big Thing with Google Cloud Platform</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(5).pdf" style="text-decoration:none;">Continuous Delivery and DevOps – A Quickstart Guide</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(6).pdf" style="text-decoration:none;">DevOps Automation Cookbook </a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(5).pdf" style="text-decoration:none;">Continuous Delivery and DevOps – A Quickstart Guide</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(6).pdf" style="text-decoration:none;">DevOps Automation Cookbook </a></li>
                                 
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(8).pdf" style="text-decoration:none;">DevOps for Digital Leaders: Reignite Business with a Modern DevOps-Enabled Software Factory</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(8).pdf" style="text-decoration:none;">DevOps for Digital Leaders: Reignite Business with a Modern DevOps-Enabled Software Factory</a></li>
                           
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(10).pdf" style="text-decoration:none;">The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(11).pdf" style="text-decoration:none;">DevOps with OpenShift</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(12).pdf" style="text-decoration:none;">DevOps on AWS: Deep Dive on Continuous Delivery and the AWS Developer Tools</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(10).pdf" style="text-decoration:none;">The DevOps Handbook: How to Create World-Class Agility, Reliability, and Security in Technology Organizations</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(11).pdf" style="text-decoration:none;">DevOps with OpenShift</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(12).pdf" style="text-decoration:none;">DevOps on AWS: Deep Dive on Continuous Delivery and the AWS Developer Tools</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(13).pdf" style="text-decoration:none;">DevOps from APIs to z Systems</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(14).pdf" style="text-decoration:none;">Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(15).pdf" style="text-decoration:none;">Effective DevOps with AWS</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(16).pdf" style="text-decoration:none;">Hands-On Security in DevOps</a></li>  
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(13).pdf" style="text-decoration:none;">DevOps from APIs to z Systems</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(14).pdf" style="text-decoration:none;">Effective DevOps: Building a Culture of Collaboration, Affinity, and Tooling at Scale</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(15).pdf" style="text-decoration:none;">Effective DevOps with AWS</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(16).pdf" style="text-decoration:none;">Hands-On Security in DevOps</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(17).pdf" style="text-decoration:none;">Microservices, IoT, and Azure: Leveraging DevOps and Microservice Architecture to Deliver SaaS Solutions</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(18).pdf" style="text-decoration:none;">Securing DevOps: Security in the Cloud</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(19).pdf" style="text-decoration:none;">DevOps with Kubernetes</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(17).pdf" style="text-decoration:none;">Microservices, IoT, and Azure: Leveraging DevOps and Microservice Architecture to Deliver SaaS Solutions</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(18).pdf" style="text-decoration:none;">Securing DevOps: Security in the Cloud</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(19).pdf" style="text-decoration:none;">DevOps with Kubernetes</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(20).pdf" style="text-decoration:none;">DevOps for Web Development</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(20).pdf" style="text-decoration:none;">DevOps for Web Development</a></li>
                           
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(21).pdf" style="text-decoration:none;">DevOps Technologies for Tomorrow</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(22).pdf" style="text-decoration:none;">Enterprise DevOps Framework: Transforming IT Operations</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(24).pdf" style="text-decoration:none;">CICS and DevOps: What You Need To Know</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(21).pdf" style="text-decoration:none;">DevOps Technologies for Tomorrow</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(22).pdf" style="text-decoration:none;">Enterprise DevOps Framework: Transforming IT Operations</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(24).pdf" style="text-decoration:none;">CICS and DevOps: What You Need To Know</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(25).pdf" style="text-decoration:none;">DevOps for SharePoint: With Packer, Terraform, Ansible, and Vagrant</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(25).pdf" style="text-decoration:none;">DevOps for SharePoint: With Packer, Terraform, Ansible, and Vagrant</a></li>
                                
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(26).pdf" style="text-decoration:none;">The IT Revolution DevOps Guide </a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(27).pdf" style="text-decoration:none;">Continuous Delivery: Tools, Collaboration, and Conway's Law</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(28).pdf" style="text-decoration:none;">Enterprise DevOps Playbook: A Guide to Delivering at Velocity</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(26).pdf" style="text-decoration:none;">The IT Revolution DevOps Guide </a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(27).pdf" style="text-decoration:none;">Continuous Delivery: Tools, Collaboration, and Conway's Law</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(28).pdf" style="text-decoration:none;">Enterprise DevOps Playbook: A Guide to Delivering at Velocity</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(31).pdf" style="text-decoration:none;">
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(31).pdf" style="text-decoration:none;">
   Learning Continuous Integration with Jenkins</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(32).pdf" style="text-decoration:none;">The DevOps 2.1 Toolkit: Docker Swarm </a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(32).pdf" style="text-decoration:none;">The DevOps 2.1 Toolkit: Docker Swarm </a></li>
                                 
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(34).pdf" style="text-decoration:none;">The State of DevOps Tools</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(34).pdf" style="text-decoration:none;">The State of DevOps Tools</a></li>
                           
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(35).pdf" style="text-decoration:none;">Puppet | State of DevOps Report 2018</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(36).pdf" style="text-decoration:none;">Continuous Delivery with Docker and Jenkins</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(39).pdf" style="text-decoration:none;">DevOps Pipeline with Docker</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(35).pdf" style="text-decoration:none;">Puppet | State of DevOps Report 2018</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(36).pdf" style="text-decoration:none;">Continuous Delivery with Docker and Jenkins</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(39).pdf" style="text-decoration:none;">DevOps Pipeline with Docker</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(40).pdf" style="text-decoration:none;">DevOps for Finance</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(41).pdf" style="text-decoration:none;">Collaborative DevOps with CLM V6.0</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(42).pdf" style="text-decoration:none;">DevOps From the Trenches</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(43).pdf" style="text-decoration:none;">Lessons From a DevOps Journey</a></li>  
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(40).pdf" style="text-decoration:none;">DevOps for Finance</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(41).pdf" style="text-decoration:none;">Collaborative DevOps with CLM V6.0</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(42).pdf" style="text-decoration:none;">DevOps From the Trenches</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(43).pdf" style="text-decoration:none;">Lessons From a DevOps Journey</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(44).pdf" style="text-decoration:none;">DevOps for VMware Administrators</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(46).pdf" style="text-decoration:none;">Docker Cookbook</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(47).pdf" style="text-decoration:none;">Docker in Action</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(44).pdf" style="text-decoration:none;">DevOps for VMware Administrators</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(46).pdf" style="text-decoration:none;">Docker Cookbook</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(47).pdf" style="text-decoration:none;">Docker in Action</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(48).pdf" style="text-decoration:none;">Docker Tutorial</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(48).pdf" style="text-decoration:none;">Docker Tutorial</a></li>
                           
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(49).pdf" style="text-decoration:none;">Docker in Practice</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(50).pdf" style="text-decoration:none;">DevOps: Puppet, Docker, and Kubernetes</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(51).pdf" style="text-decoration:none;">Docker Deep Dive</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(49).pdf" style="text-decoration:none;">Docker in Practice</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(50).pdf" style="text-decoration:none;">DevOps: Puppet, Docker, and Kubernetes</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(51).pdf" style="text-decoration:none;">Docker Deep Dive</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(52).pdf" style="text-decoration:none;">Hands on Docker</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(52).pdf" style="text-decoration:none;">Hands on Docker</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(2).pdf" style="text-decoration:none;">Agile Project Management with Azure DevOps</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(7).pdf" style="text-decoration:none;">Reinventing ITIL in the Age of DevOps</a></li>
-                                <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(9).pdf" style="text-decoration:none;">DevOps For Dummies</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(2).pdf" style="text-decoration:none;">Agile Project Management with Azure DevOps</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(7).pdf" style="text-decoration:none;">Reinventing ITIL in the Age of DevOps</a></li>
+                                <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(9).pdf" style="text-decoration:none;">DevOps For Dummies</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(29).pdf" style="text-decoration:none;">Security is Dead. Long Live Rugged DevOps: IT at Ludicrous Speed ...</a></li> 
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(29).pdf" style="text-decoration:none;">Security is Dead. Long Live Rugged DevOps: IT at Ludicrous Speed ...</a></li> 
  
  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(23).pdf" style="text-decoration:none;">Puppet Cookbook</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(37).pdf" style="text-decoration:none;">Creating Development Environments with Vagrant</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(23).pdf" style="text-decoration:none;">Puppet Cookbook</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(37).pdf" style="text-decoration:none;">Creating Development Environments with Vagrant</a></li>
                                
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(38).pdf" style="text-decoration:none;">Puppet Best Practices: Design Patterns for Maintainable Code</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(38).pdf" style="text-decoration:none;">Puppet Best Practices: Design Patterns for Maintainable Code</a></li>
  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(30).pdf" style="text-decoration:none;">Practical Network Automation: Leverage the power of Python and Ansible to optimize your network</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(33).pdf" style="text-decoration:none;">Ansible: Up and Running</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(45).pdf" style="text-decoration:none;">Ansible Playbook Essentials</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(30).pdf" style="text-decoration:none;">Practical Network Automation: Leverage the power of Python and Ansible to optimize your network</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(33).pdf" style="text-decoration:none;">Ansible: Up and Running</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(45).pdf" style="text-decoration:none;">Ansible Playbook Essentials</a></li>
                                
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(53).pdf" style="text-decoration:none;">Jenkins: The Definitive Guide</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(54).rar" style="text-decoration:none;">Jenkins Continuous Integration Cookbook</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(55).pdf" style="text-decoration:none;">Jenkins Essentials</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(53).pdf" style="text-decoration:none;">Jenkins: The Definitive Guide</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(54).rar" style="text-decoration:none;">Jenkins Continuous Integration Cookbook</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(55).pdf" style="text-decoration:none;">Jenkins Essentials</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(56).pdf" style="text-decoration:none;">Git Essentials</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(56).pdf" style="text-decoration:none;">Git Essentials</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(57).pdf" style="text-decoration:none;">Version Control with Git</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(57).pdf" style="text-decoration:none;">Version Control with Git</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(58).pdf" style="text-decoration:none;">Pro Git</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(58).pdf" style="text-decoration:none;">Pro Git</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(59).pdf" style="text-decoration:none;">The Practice of System and Network Administration</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(59).pdf" style="text-decoration:none;">The Practice of System and Network Administration</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(60).pdf" style="text-decoration:none;">DevOps Troubleshooting: Linux Server Best Practices</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(60).pdf" style="text-decoration:none;">DevOps Troubleshooting: Linux Server Best Practices</a></li>
  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(61).pdf" style="text-decoration:none;">Automate it!: Recipes to upskill your business</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(62).pdf" style="text-decoration:none;">Beginning Shell Scripting</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(63).pdf" style="text-decoration:none;">Classic Shell Scripting</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(61).pdf" style="text-decoration:none;">Automate it!: Recipes to upskill your business</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(62).pdf" style="text-decoration:none;">Beginning Shell Scripting</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(63).pdf" style="text-decoration:none;">Classic Shell Scripting</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(64).pdf" style="text-decoration:none;">DevOps Bootcamp: A fast-paced guide to implement DevOps with ease</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(64).pdf" style="text-decoration:none;">DevOps Bootcamp: A fast-paced guide to implement DevOps with ease</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(65).pdf" style="text-decoration:none;">Implementing Modern DevOps</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(65).pdf" style="text-decoration:none;">Implementing Modern DevOps</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(66).pdf" style="text-decoration:none;">Linux Shell Scripting Cookbook</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(66).pdf" style="text-decoration:none;">Linux Shell Scripting Cookbook</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(67).pdf" style="text-decoration:none;">Mastering Linux Shell Scripting</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(67).pdf" style="text-decoration:none;">Mastering Linux Shell Scripting</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(68).pdf" style="text-decoration:none;">Microservices: Building Scalable Software</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(68).pdf" style="text-decoration:none;">Microservices: Building Scalable Software</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(69).pdf" style="text-decoration:none;">Microservices: Flexible Software Architecture</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(70).pdf" style="text-decoration:none;">Practical DevOps</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(71).pdf" style="text-decoration:none;">Pro Bash Programming: Scripting the GNU/Linux Shell</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(69).pdf" style="text-decoration:none;">Microservices: Flexible Software Architecture</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(70).pdf" style="text-decoration:none;">Practical DevOps</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(71).pdf" style="text-decoration:none;">Pro Bash Programming: Scripting the GNU/Linux Shell</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(72).pdf" style="text-decoration:none;">Mastering UNIX Shell Scripting</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(72).pdf" style="text-decoration:none;">Mastering UNIX Shell Scripting</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(73).pdf" style="text-decoration:none;">The Practical Guide to Enterprise DevOps and Continuous Delivery</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(73).pdf" style="text-decoration:none;">The Practical Guide to Enterprise DevOps and Continuous Delivery</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(74).pdf" style="text-decoration:none;">Linux in a Nutshell</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(74).pdf" style="text-decoration:none;">Linux in a Nutshell</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(75).pdf" style="text-decoration:none;">Linux Utilities Cookbook</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(75).pdf" style="text-decoration:none;">Linux Utilities Cookbook</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(76).pdf" style="text-decoration:none;">Mastering Wireshark</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(76).pdf" style="text-decoration:none;">Mastering Wireshark</a></li> 
   
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(77).pdf" style="text-decoration:none;">REST API Design Rulebook</a></li>
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(78).pdf" style="text-decoration:none;">Shell Scripting Recipes: A Problem-Solution Approach</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(79).pdf" style="text-decoration:none;">The DevOps Adoption Playbook</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(77).pdf" style="text-decoration:none;">REST API Design Rulebook</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(78).pdf" style="text-decoration:none;">Shell Scripting Recipes: A Problem-Solution Approach</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(79).pdf" style="text-decoration:none;">The DevOps Adoption Playbook</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(80).pdf" style="text-decoration:none;">Scala Microservices</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(80).pdf" style="text-decoration:none;">Scala Microservices</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(81).pdf" style="text-decoration:none;">Linus for Developers: Jumpstart Your Linux Programming Skills</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(81).pdf" style="text-decoration:none;">Linus for Developers: Jumpstart Your Linux Programming Skills</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(82).pdf" style="text-decoration:none;">Selenium Testing Tools Cookbook</a></li>
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(82).pdf" style="text-decoration:none;">Selenium Testing Tools Cookbook</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(83).pdf" style="text-decoration:none;">Selenium WebDriver Recipes in Java</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(83).pdf" style="text-decoration:none;">Selenium WebDriver Recipes in Java</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(84).pdf" style="text-decoration:none;">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(84).pdf" style="text-decoration:none;">The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win</a></li> 
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(85).pdf" style="text-decoration:none;">Architecting for Scale: High Availability for Your Growing Applications</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(85).pdf" style="text-decoration:none;">Architecting for Scale: High Availability for Your Growing Applications</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(86).pdf" style="text-decoration:none;">Practical DevOps for Big Data</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(86).pdf" style="text-decoration:none;">Practical DevOps for Big Data</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(87).pdf" style="text-decoration:none;">Practical Linux Topics</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(87).pdf" style="text-decoration:none;">Practical Linux Topics</a></li> 
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(88).pdf" style="text-decoration:none;">Getting Started with Kubernetes</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(88).pdf" style="text-decoration:none;">Getting Started with Kubernetes</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(89).pdf" style="text-decoration:none;">Just Culture: Balancing Safety and Accountability</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(89).pdf" style="text-decoration:none;">Just Culture: Balancing Safety and Accountability</a></li> 
     
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(90).pdf" style="text-decoration:none;">Site Reliability Engineering: How Google Runs Production Systems</a></li> 
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(90).pdf" style="text-decoration:none;">Site Reliability Engineering: How Google Runs Production Systems</a></li> 
      
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(91).pdf" style="text-decoration:none;">DevOps Revealed Training Book</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(91).pdf" style="text-decoration:none;">DevOps Revealed Training Book</a></li> 
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(92).pdf" style="text-decoration:none;">JIRA Agile Essentials</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(92).pdf" style="text-decoration:none;">JIRA Agile Essentials</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(93).pdf" style="text-decoration:none;">Implementation of DevOps pipeline for Serverless Applications</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(93).pdf" style="text-decoration:none;">Implementation of DevOps pipeline for Serverless Applications</a></li> 
     
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(94).pdf" style="text-decoration:none;">Microservices for Java Developers: A Hands-on Introduction to Frameworks and Containers</a></li>  
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(94).pdf" style="text-decoration:none;">Microservices for Java Developers: A Hands-on Introduction to Frameworks and Containers</a></li>  
  
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(95).pdf" style="text-decoration:none;">Microservices Best Practices for Java</a></li> 
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(95).pdf" style="text-decoration:none;">Microservices Best Practices for Java</a></li> 
    
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(96).pdf" style="text-decoration:none;">Spring Microservices</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(96).pdf" style="text-decoration:none;">Spring Microservices</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(97).pdf" style="text-decoration:none;">A Python Book: Beginning Python, Advanced Python, and Python Exercises</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(97).pdf" style="text-decoration:none;">A Python Book: Beginning Python, Advanced Python, and Python Exercises</a></li> 
     
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(98).pdf" style="text-decoration:none;">Automate The Boring Stuff With Python</a></li>  
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(98).pdf" style="text-decoration:none;">Automate The Boring Stuff With Python</a></li>  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(99).pdf" style="text-decoration:none;">Microservices from Day One: Build robust and scalable software from the start</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(99).pdf" style="text-decoration:none;">Microservices from Day One: Build robust and scalable software from the start</a></li> 
     
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(100).pdf" style="text-decoration:none;">Designing and Implementing Linux Firewalls and QoS using netfilter, iproute2, NAT, and
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(100).pdf" style="text-decoration:none;">Designing and Implementing Linux Firewalls and QoS using netfilter, iproute2, NAT, and
 L7-filter</a></li>  
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(101).pdf" style="text-decoration:none;">Scientific Programming and Computer Architecture</a></li> 
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(101).pdf" style="text-decoration:none;">Scientific Programming and Computer Architecture</a></li> 
     
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(102).pdf" style="text-decoration:none;">Open Source Systems:
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(102).pdf" style="text-decoration:none;">Open Source Systems:
 Towards Robust Practices</a></li>  
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(103).pdf" style="text-decoration:none;">The Future of Software Quality Assurance</a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(103).pdf" style="text-decoration:none;">The Future of Software Quality Assurance</a></li> 
     
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(104).pdf" style="text-decoration:none;">DevOps for Digital Leaders: Reignite Business with a Modern DevOps-Enabled Software Factory </a></li> 
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/devops(105).pdf" style="text-decoration:none;">Anti-fragile
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(104).pdf" style="text-decoration:none;">DevOps for Digital Leaders: Reignite Business with a Modern DevOps-Enabled Software Factory </a></li> 
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/devops(105).pdf" style="text-decoration:none;">Anti-fragile
 ICT Systems </a></li> 
 </ul>
 
@@ -419,54 +419,54 @@ ICT Systems </a></li>
 
                              
 
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(1).pdf" style="text-decoration:none;">Formal Foundations of Serverless Computing</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(1).pdf" style="text-decoration:none;">Formal Foundations of Serverless Computing</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(2).pdf" style="text-decoration:none;">Consistency Analysis in Bloom: a CALM and Collected Approach</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(2).pdf" style="text-decoration:none;">Consistency Analysis in Bloom: a CALM and Collected Approach</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(3).pdf" style="text-decoration:none;">How do committees invent?</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(4).pdf" style="text-decoration:none;">Your Server as a Function</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(5).pdf" style="text-decoration:none;">Understanding Software Ecosystems:
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(3).pdf" style="text-decoration:none;">How do committees invent?</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(4).pdf" style="text-decoration:none;">Your Server as a Function</a></li>                              
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(5).pdf" style="text-decoration:none;">Understanding Software Ecosystems:
 A Strategic Modeling Approach</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(6).pdf" style="text-decoration:none;">Resource Oriented Computing for Adaptive Systems</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(6).pdf" style="text-decoration:none;">Resource Oriented Computing for Adaptive Systems</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(7).pdf" style="text-decoration:none;">From DevOps to DevDataOps: Data Management in DevOps processes</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(7).pdf" style="text-decoration:none;">From DevOps to DevDataOps: Data Management in DevOps processes</a></li>
 
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(8).pdf" style="text-decoration:none;"> Ethics in DevOps, The Attitude of Programmers Towards it</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(9).pdf" style="text-decoration:none;">DevOps and software quality: A systematic mapping</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(8).pdf" style="text-decoration:none;"> Ethics in DevOps, The Attitude of Programmers Towards it</a></li>
+   <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(9).pdf" style="text-decoration:none;">DevOps and software quality: A systematic mapping</a></li>
   
    
- <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(10).pdf" style="text-decoration:none;">Application of DevOps in the improvement of machine learning processes </a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(11).pdf" style="text-decoration:none;">Industrial DevOps</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(12).pdf" style="text-decoration:none;">Readiness model for DevOps implementation in software organizations</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(13).pdf" style="text-decoration:none;">DevOps, Challenges and Implications</a></li>
+ <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(10).pdf" style="text-decoration:none;">Application of DevOps in the improvement of machine learning processes </a></li>                              
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(11).pdf" style="text-decoration:none;">Industrial DevOps</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(12).pdf" style="text-decoration:none;">Readiness model for DevOps implementation in software organizations</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(13).pdf" style="text-decoration:none;">DevOps, Challenges and Implications</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(14).pdf" style="text-decoration:none;">Leading DevOps Practice and Principle Adoption</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(14).pdf" style="text-decoration:none;">Leading DevOps Practice and Principle Adoption</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(15).pdf" style="text-decoration:none;">Proposal To Cope Change Resistance Using DevOps</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(15).pdf" style="text-decoration:none;">Proposal To Cope Change Resistance Using DevOps</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(16).pdf" style="text-decoration:none;">A Survey on DevOps Techniques Used in Cloud-Based IOT Mashups</a></li>
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(16).pdf" style="text-decoration:none;">A Survey on DevOps Techniques Used in Cloud-Based IOT Mashups</a></li>
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(17).pdf" style="text-decoration:none;">Devops and Microservices Based Internet of Things Meta-Model</a></li>   
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(17).pdf" style="text-decoration:none;">Devops and Microservices Based Internet of Things Meta-Model</a></li>   
   
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(18).pdf" style="text-decoration:none;">How DevOps Practices Support Digital Transformation</a></li> 
-
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(19).pdf" style="text-decoration:none;">Anomaly Detection in DevOps Toolchain</a></li> 
-
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(20).pdf" style="text-decoration:none;">A Review Paper on DevOps: Beginning and More To Know</a></li>
-
-  <li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(21).pdf" style="text-decoration:none;">A grounded theory analysis of modern web applications: knowledge, skills, and abilities for DevOps</a></li>   
-  
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(22).pdf" style="text-decoration:none;">Security Practices in DevOps</a></li> 
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(18).pdf" style="text-decoration:none;">How DevOps Practices Support Digital Transformation</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(23).pdf" style="text-decoration:none;">DevOps: Introducing Infrastructure-as-Code</a></li> 
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(19).pdf" style="text-decoration:none;">Anomaly Detection in DevOps Toolchain</a></li> 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(24).pdf" style="text-decoration:none;">Communication Challenges and Strategies in
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(20).pdf" style="text-decoration:none;">A Review Paper on DevOps: Beginning and More To Know</a></li>
+
+  <li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(21).pdf" style="text-decoration:none;">A grounded theory analysis of modern web applications: knowledge, skills, and abilities for DevOps</a></li>   
+  
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(22).pdf" style="text-decoration:none;">Security Practices in DevOps</a></li> 
+
+  
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(23).pdf" style="text-decoration:none;">DevOps: Introducing Infrastructure-as-Code</a></li> 
+
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(24).pdf" style="text-decoration:none;">Communication Challenges and Strategies in
 Distributed DevOps</a></li> 
 
 
-<li><a target="_blank" href="https://github.com/manjunath5496/DevOps-Books/blob/master/dev(25).pdf" style="text-decoration:none;">Improve software quality through practicing DevOps</a></li> 
+<li><a target="_blank" href="https://github.com/Prasanth595/pdf-reader/blob/main/DevOps-Books-master/dev(25).pdf" style="text-decoration:none;">Improve software quality through practicing DevOps</a></li> 
 
 
 
